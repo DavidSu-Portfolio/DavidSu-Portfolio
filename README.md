@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidSu-Portfolio
+Hi👋 I’m  David Su
 
 
 
