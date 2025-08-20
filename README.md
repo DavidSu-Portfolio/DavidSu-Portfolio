@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Su
 
-🌱 Currently working in the **semiconductor industry**  
+🖥️ Currently working in the **semiconductor industry**  
 💬 Knowledgeable in **exploratory data analysis, supervised/unsupervised machine learning, image processing, statistics, and automation**  
 
 ---
